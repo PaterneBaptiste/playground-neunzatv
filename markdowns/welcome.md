@@ -4,12 +4,7 @@
 -[]Création
 
 
-?[A quels principes SOLID le Pattern Strategy repond-il ?]
--[x]SRP
--[x]OCP
--[]LSP
--[]ISP
--[]DIP
+
 
 ?[Quels sont les avantages du Pattern Strategy ?]
 -[x]Il rend le code plus lisible
