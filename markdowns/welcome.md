@@ -10,7 +10,6 @@
 -[]ISP
 -[]DIP
 
-
 ?[Quels sont les avantages du Pattern Strategy ?]
 -[x]Il rend le code plus lisible
 -[]Il sépare les opérations
